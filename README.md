@@ -1,2 +1,2 @@
-# leetcode
-leetcode js
+# daily interview
+
